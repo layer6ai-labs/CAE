@@ -1,0 +1,17 @@
+{
+    "c-learning": {
+        "success_rate": {
+            "easy": "97.44 +/- 0.00",
+            "medium": "75.38 +/- 0.00",
+            "hard": "75.00 +/- 0.00",
+            "all": "79.69 +/- 0.00"
+        },
+        "path_length_of_success": {
+            "easy": "5.51 +/- 0.00",
+            "medium": "12.20 +/- 0.00",
+            "hard": "16.59 +/- 0.00",
+            "all": "12.43 +/- 0.00"
+        }
+    }
+}
+Runs:['runs/DubinsCar/Nov27_14-25-20']

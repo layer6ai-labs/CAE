@@ -1,0 +1,14 @@
+{
+    "success_rate": {
+        "easy": "97.44",
+        "medium": "75.38",
+        "hard": "75.00",
+        "all": "79.69"
+    },
+    "path_length_of_success": {
+        "easy": "5.51",
+        "medium": "12.20",
+        "hard": "16.59",
+        "all": "12.43"
+    }
+}

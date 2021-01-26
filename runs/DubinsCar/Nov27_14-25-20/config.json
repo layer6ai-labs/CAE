@@ -1,0 +1,33 @@
+{
+    "overall_seed": 21,
+    "goal_evaluation_seed": 100,
+    "target_network_copy_freq": 4,
+    "goal_achievement_epsilon": 0.0,
+    "random_exploration_eps": 15,
+    "goal_directed_eps": 5000,
+    "max_ep_len": 500,
+    "batch_size": 256,
+    "learning_rate": 0.001,
+    "critic_learning_rate": 0.0001,
+    "actor_learning_rate": 0.0001,
+    "train_steps_per_ep": 80,
+    "eval_freq": 1,
+    "num_eval_goals": 1,
+    "policy_freq": 2,
+    "noise_eps": 0.3,
+    "exploration_eps": 0.3,
+    "horizon_sampling_const": 2.3,
+    "use_LR_scheduler": false,
+    "LR_change_episode": 2000,
+    "LR_reduce_factor": 10,
+    "use_decaying_epsilon": false,
+    "epsilon_decay_denominator": 150,
+    "use_HER": true,
+    "HER_fraction": 0.8,
+    "hidden_layer_sizes": [
+        400,
+        300
+    ],
+    "plot_freq": 20,
+    "c_clipping": false
+}
