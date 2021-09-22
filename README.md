@@ -57,10 +57,10 @@ python evaluate/eval.py env_name
 If you find this code useful in your research, please cite the following paper:
 
     @inproceedings{naderian2020c,
-  title={C-Learning: Horizon-Aware Cumulative Accessibility Estimation},
-  author={Naderian, Panteha and Loaiza-Ganem, Gabriel and Braviner, Harry J and Caterini, Anthony L and Cresswell, Jesse C and Li, Tong and Garg, Animesh},
-  booktitle={International Conference on Learning Representations},
-  year={2020}
+    title={C-Learning: Horizon-Aware Cumulative Accessibility Estimation},
+    author={Naderian, Panteha and Loaiza-Ganem, Gabriel and Braviner, Harry J and Caterini, Anthony L and Cresswell, Jesse C and Li, Tong and Garg, Animesh},
+    booktitle={International Conference on Learning Representations},
+    year={2020}
 }
 
     
