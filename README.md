@@ -61,6 +61,6 @@ If you find this code useful in your research, please cite the following paper:
     author={Naderian, Panteha and Loaiza-Ganem, Gabriel and Braviner, Harry J and Caterini, Anthony L and Cresswell, Jesse C and Li, Tong and Garg, Animesh},
     booktitle={International Conference on Learning Representations},
     year={2020}
-}
+    }
 
     
