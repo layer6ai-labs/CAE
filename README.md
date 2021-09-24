@@ -2,7 +2,7 @@
 <a href="https://layer6.ai/"><img src="https://github.com/layer6ai-labs/DropoutNet/blob/master/logs/logobox.jpg" width="180"></a>
 </p>
 
-## C-Learning: Horizon-Aware Cumulative Accessibility Estimation
+## ICLR'21 C-Learning: Horizon-Aware Cumulative Accessibility Estimation
 
 Authors: Panteha Naderian, Gabriel Loaiza-Ganem, Harry J. Braviner, Anthony L. Caterini, Jesse C. Cresswell, Tong Li, Animesh Garg
 [[paper](https://openreview.net/pdf?id=W3Wf_wKmqm9)]
